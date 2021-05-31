@@ -1,13 +1,20 @@
-### Hi there 👋
+## Hi there 👋
 
 - 🔭 I’m currently working on [@Leo-Corporation](https://github.com/Leo-Corporation)
 - 📚 I’m currently learning C#, XAML, JS...
+- 🖥 I'm using Windows Forms and WPF to create Windows applications.
+
+### Website
+I've published a new website for Léo Corporation : https://leocorporation.dev
 
 ### Stats
+Here are some GitHub stats.
 
 ![Leo-Peyronnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Peyronnet&count_private=true&show_icons=true&theme=dark)
 
 ### WakaTime
-[@LeoPeyronnet](https://wakatime.com/@LeoPeyronnet)
+Here are my coding stats.
+
+[@LeoPeyronnet](https://wakatime.com/@LeoPeyronnet) is my WakaTime profile.
 
 ![Leo-Peyronnet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeoPeyronnet&layout=compact&theme=dark)
