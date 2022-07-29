@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [@Leo-Corporation](https://github.com/Leo-Corporation)
 - 📚 I’m currently learning C#, XAML, JS...
-- 🖥 I'm using Windows Forms and WPF to create Windows applications.
+- 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
 
 ### Website
 I've published a new website for Léo Corporation : https://leocorporation.dev
