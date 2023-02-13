@@ -1,11 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on [@Leo-Corporation](https://github.com/Leo-Corporation)
-- 📚 I’m currently learning C#, XAML, JS...
+- 🔭 I am a developer, and the founder of [@Leo-Corporation](https://github.com/Leo-Corporation).
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
+- 📚 I learned programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
+- 💻 C#, XAML, VB.NET, HTML, CSS, JS, TS, Python...
 
 ### Website
-I've published a new website for Léo Corporation : https://leocorporation.dev
+Discover the official website of the Léo Corporation: https://leocorporation.dev
 
 ### Léo Corporation
 [Click here](https://github.com/Leo-Corporation) to see all Open-Sourced projects of Léo Corporation.
