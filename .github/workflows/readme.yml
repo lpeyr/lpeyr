@@ -11,9 +11,9 @@ jobs:
     name: Update this repo's README with recent activity
 
     steps:
-      - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout main branch
+        uses: actions/checkout@v2
+      - name: Update README
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.TOKEN }}
-        with:
-          MAX_LINES: 10
