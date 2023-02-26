@@ -25,9 +25,3 @@ Here are my coding stats.
 [@LeoPeyronnet](https://wakatime.com/@LeoPeyronnet) is my WakaTime profile.
 
 ![Leo-Peyronnet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeoPeyronnet&layout=compact&theme=transparent)
-
-### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
