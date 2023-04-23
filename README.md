@@ -4,7 +4,7 @@
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
 - 📚 I learned programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
 - 💻 C#, XAML, VB.NET, HTML, CSS, JS, TS, Python...
-- 🌐 I recently built and deployed my first Next.js application (ex: [Passliss](https://passliss.leocorporation.dev/)).
+- 🌐 I recently built and deployed my first Next.js application ([Passliss](https://passliss.leocorporation.dev/)).
 
 ### 🌐 Website
 Discover the official website of the Léo Corporation: https://leocorporation.dev
