@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I am a developer, and the founder of [@Leo-Corporation](https://github.com/Leo-Corporation).
+- 🔭 I am a developer, and the founder of [@peyronnet-group](https://github.com/peyronnet-group), [@Leo-Corporation](https://github.com/Leo-Corporation) and [@DevyusCode](https://github.com/DevyusCode).
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
 - 📚 I learned programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
 - 💻 C#, XAML, VB.NET, HTML, CSS, JS, TS, Python...
