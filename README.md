@@ -17,7 +17,7 @@ Here are some GitHub stats.
 
 ![Leo-Peyronnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Peyronnet&count_private=true&show_icons=true&theme=transparent)
 
-[![Leo-Peyronnet's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Leo-Peyronnet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leo-Peyronnet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Peyronnet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### ⏳ WakaTime
 Here are my coding stats.
 
