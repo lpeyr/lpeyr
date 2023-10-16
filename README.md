@@ -1,10 +1,11 @@
 ## Hi there 👋
 
-- 🔭 I am a developer, and the founder of [@peyronnet-group](https://github.com/peyronnet-group), [@Leo-Corporation](https://github.com/Leo-Corporation) and [@DevyusCode](https://github.com/DevyusCode).
+- 🔭 I am a developer, and the founder of [@peyronnet-group](https://github.com/peyronnet-group), [@Leo-Corporation](https://github.com/Leo-Corporation), [@DevyusCode](https://github.com/DevyusCode) and [@synapsy-ai](https://github.com/synapsy-ai).
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
 - 📚 I learnt programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
 - 💻 C#, XAML, VB.NET, HTML, CSS, JS, TS, Python...
 - 🌐 I recently built and deployed my first Next.js application ([Passliss](https://passliss.leocorporation.dev/)).
+- 🤖 I'm creating web applications using OpenAI's API [@synapsy-ai](https://github.com/synapsy-ai).
 
 ### 🌐 Website
 Discover the official website of the Léo Corporation: https://leocorporation.dev
