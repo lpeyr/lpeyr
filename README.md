@@ -8,18 +8,23 @@
 - 🤖 I'm creating web applications using OpenAI's API [@synapsy-ai](https://github.com/synapsy-ai).
 
 ### 🌐 Website
+
 Discover the official website of the Léo Corporation: https://leocorporation.dev
 
 ### 🏢 Léo Corporation
+
 [Click here](https://github.com/Leo-Corporation) to see all Open-Sourced projects of Léo Corporation.
 
 ### 📊 Stats
+
 Here are some GitHub stats.
 
-![Leo-Peyronnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leo-Peyronnet&count_private=true&show_icons=true&theme=transparent)
+![Leo-Peyronnet's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpeyr&count_private=true&show_icons=true&theme=transparent)
 
-[![Leo-Peyronnet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Leo-Peyronnet&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Leo-Peyronnet's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lpeyr&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ### ⏳ WakaTime
+
 Here are my coding stats.
 
 [@LeoPeyronnet](https://wakatime.com/@LeoPeyronnet) is my WakaTime profile.
