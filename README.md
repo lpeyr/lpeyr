@@ -7,6 +7,8 @@
 - 🌐 I recently built and deployed my first Next.js application ([Passliss](https://passliss.leocorporation.dev/)).
 - 🤖 I'm creating web applications using OpenAI's API [@synapsy-ai](https://github.com/synapsy-ai).
 
+⚠️ Old username was Leo-Peyronnet.
+
 ### 🌐 Website
 
 Discover the official website of the Léo Corporation: https://leocorporation.dev
