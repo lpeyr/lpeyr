@@ -3,12 +3,23 @@
 - 🔭 I am a developer, and the founder of [@peyronnet-group](https://github.com/peyronnet-group), [@Leo-Corporation](https://github.com/Leo-Corporation), [@DevyusCode](https://github.com/DevyusCode) and [@synapsy-ai](https://github.com/synapsy-ai).
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
 - 📚 I learnt programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
-- 💻 C#, XAML, VB.NET, HTML, CSS, JS, TS, Python...
 - 🌐 I recently built and deployed my first Next.js application ([Passliss](https://passliss.leocorporation.dev/)).
 - 🤖 I'm creating web applications using OpenAI's API [@synapsy-ai](https://github.com/synapsy-ai).
 
 ⚠️ Old username was Leo-Peyronnet.
 
+### Skills
+#### Languages
+[![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,cs,latex,md)](https://skillicons.dev)
+
+#### Frameworks/Libraries
+[![My Frameworks](https://skillicons.dev/icons?i=dotnet,next,react,supabase)](https://skillicons.dev)
+
+#### Tools
+[![My Tools](https://skillicons.dev/icons?i=nodejs,npm,git,github,netlify,githubactions)](https://skillicons.dev)
+
+#### IDEs and apps
+[![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,figma,notion)](https://skillicons.dev)
 ### 🌐 Website
 
 Discover the official website of the Léo Corporation: https://leocorporation.dev
