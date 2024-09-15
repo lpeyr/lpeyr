@@ -13,7 +13,7 @@
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,cs,latex,md)](https://skillicons.dev)
 
 #### Frameworks/Libraries
-[![My Frameworks](https://skillicons.dev/icons?i=dotnet,next,react,supabase)](https://skillicons.dev)
+[![My Frameworks](https://skillicons.dev/icons?i=dotnet,next,react,supabase,tailwindcss)](https://skillicons.dev)
 
 #### Tools
 [![My Tools](https://skillicons.dev/icons?i=nodejs,npm,git,github,netlify,githubactions)](https://skillicons.dev)
