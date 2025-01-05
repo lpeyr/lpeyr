@@ -1,14 +1,12 @@
 ## Hi there 👋
 
-- 🔭 I am a developer, and the founder of [@peyronnet-group](https://github.com/peyronnet-group), [@Leo-Corporation](https://github.com/Leo-Corporation), [@DevyusCode](https://github.com/DevyusCode) and [@synapsy-ai](https://github.com/synapsy-ai).
+- 🔭 I am a versatile developer
 - 📖 Student at INSA Lyon.
 - 🖥 I'm using WPF to create Windows applications. (I used to work with Windows Forms)
-- 📚 I learnt programming by myself, which allowed me to gain some experience in C#, WPF, and more generally in the .NET framework.
-- 🌐 I'm building web apps using Next.js and React. You can find my AI-releated web apps at [@synapsy-ai](https://github.com/synapsy-ai).
+- 📚 I learnt programming by myself, which allowed me to gain some experience in VB, C#, WPF, and more generally in the .NET framework.
+- 🌐 I'm building web apps using Next.js and React.
 
-⚠️ Old username was Leo-Peyronnet.
-
-### Skills
+## Skills
 #### Languages
 [![My Languages](https://skillicons.dev/icons?i=js,ts,html,css,python,cs,latex,md)](https://skillicons.dev)
 
@@ -20,15 +18,13 @@
 
 #### IDEs and apps
 [![My Tools](https://skillicons.dev/icons?i=visualstudio,vscode,figma,notion)](https://skillicons.dev)
-### 🌐 Website
 
-Discover the official website of the Léo Corporation: https://leocorporation.dev
+### 🏢 Projects
 
-### 🏢 Léo Corporation
+- [Projects related to Windows/Web Apps creation](https://github.com/Leo-Corporation) 
+- [Projects related to OpenAI API](https://github.com/synapsy-ai) 
 
-[Click here](https://github.com/Leo-Corporation) to see all Open-Sourced projects of Léo Corporation.
-
-### 📊 Stats
+## 📊 Stats
 
 Here are some GitHub stats.
 
