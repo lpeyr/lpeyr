@@ -36,6 +36,6 @@ Here are some GitHub stats.
 
 Here are my coding stats.
 
-[@LeoPeyronnet](https://wakatime.com/@LeoPeyronnet) is my WakaTime profile.
+[@lpeyr](https://wakatime.com/@lpeyr) is my WakaTime profile.
 
-![Leo-Peyronnet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LeoPeyronnet&layout=compact&theme=transparent)
+![Leo-Peyronnet's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lpeyr&layout=compact&theme=transparent)
